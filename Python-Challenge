@@ -1,0 +1,9 @@
+Solutions
+
+
+(1) Directory Traversal
+
+http://www.pythonchallenge.com/pc/def/0.html
+
+clue is to change the URL. starts at 0.html
+Use python to change to 2**38 = 274877906944
